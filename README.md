@@ -3,13 +3,13 @@ A differential drive robot simulator package in ROS2
 
 ## Install and Build the robot_simulation package
 
-Prepare a folder to be used as catkin workspace by:
+Prepare a folder to be used as ros2 workspace by:
 ```console
-mkdir -p <your_catkin_ws>/src
+mkdir -p <your_ros2_ws>/src
 ```
 Navigate to this folder by:
 ```console
-cd <your_catkin_ws>
+cd <your_ros2_ws>
 ```
 Install the robot_simulator packages by running:
 ```console
